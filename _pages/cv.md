@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-# Zhuoni Jie
-
 ## RESEARCH INTERESTS
 
 Human-Computer Interaction, Social Computing, Affective Computing, Computer-Mediated Communication,
@@ -18,33 +16,33 @@ Computer-Supported Cooperative Work, Cross-Cultural Design
 
 ### UNIVERSITY OF CAMBRIDGE | MPHIL IN ADVANCED COMPUTER SCIENCE
 
-Oct. 2018 - July 2019 | Cambridge, UK | Advisors: Hatice Gunes & Alan Blackwell | Graduated with Distinction
+Oct. 2018 - July 2019 • Cambridge, UK • Advisors: Hatice Gunes & Alan Blackwell • Graduated with Distinction
 
 - Project: Taste-related Expression and Personality Analysis in Human-Human and Human-Robot Interactions
 
 ### TSINGHUA UNIVERSITY | B.E. IN INDUSTRIAL ENGINEERING & MINOR IN FINANCE
 
-Aug. 2014 – July 2018 | Beijing, China
+Aug. 2014 – July 2018 • Beijing, China
 
 - Cum.GPA: 88 / 100 • Last-two-year GPA:3.79/4.
 - Thesis: Consumer Demand Estimation Basedon Discrete Choice Models and Machine Learning
 
 ### TECHNICAL UNIVERSITY OFDENMARK | EXCHANGE STUDENT IN DEPT OF COMPUTER SCIENCE
 
-Aug. 2016 – Dec. 2016 | Kgs. Lyngby, Denmark
+Aug. 2016 – Dec. 2016 • Kgs. Lyngby, Denmark
 
 ## PUBLICATIONS&PRESENTATIONS
 
 **JIE,Z.** , Mahmoud,M., Stafford-Fraser, Q.,Robinson, P.,Dias, E.,&Skrypchuk, L.(2018,May). Analysis of yawning behaviour in
  spontaneous expressions of drowsy drivers. In Automatic Face & Gesture Recognition (FG2018), 2018 13th IEEE International Conferenceon (pp.571-576). IEEE.
-**JIE,Z.** ,oral presentation on yawning detection at the 8th International Workshop on Human Behavior Understanding 2018
+**JIE,Z.** , oral presentation on yawning detection at the 8th International Workshop on Human Behavior Understanding 2018
 (HBU2018), May15, 2018.
 
 ## RESEARCH
 
 ### COMPUTER LABORATORY | RESEARCH ASSISTANT
+July 2017 – Sept. 2017 • University of Cambridge • Advisors: Prof. Peter Robinson, Dr. Marwa Mahmoud
 
-July 2017 – Sept. 2017 | University of Cambridge | Advisors: Prof. Peter Robinson, Dr. Marwa Mahmoud
 This project aimed to investigate applications of computer vision in the automotive domain. I investigated driver drowsiness with a focus on yawning,and proposed a novel detection model.
 
 - Developedavision-basedapproachfusingregionalfacialgeometricandappearancefeaturestoeffectively
@@ -52,8 +50,8 @@ This project aimed to investigate applications of computer vision in the automot
 - Foundthatfacegesturecanbeusedasanovelcuefordrowsinessdetection.
 
 ### HUMAN-COMPUTER INTERACTION LAB | RESEARCH ASSISTANT
+Mar. 2018 – June 2018 • Tsinghua University • Advisor: Prof. Chun Yu
 
-Mar. 2018 – June 2018 | Tsinghua University | Advisor: Prof. Chun Yu
 Thisprojectaimedtofacilitatenon-nativeresearcherstowriteacademicpapers(projectsystemhere). Iinvestigated
 stylometricfeaturesandvisualization. Currentlyfewresearchesfocusonimprovingacademicwriting’sstylometry.
 
@@ -63,7 +61,7 @@ stylometricfeaturesandvisualization. Currentlyfewresearchesfocusonimprovingacade
 
 ### HUMAN FACTORS ENGINEERING LAB | RESEARCH ASSISTANT
 
-July 2018 – Sept. 2018 | Tsinghua University | Advisor: Prof. Pei-Luen Patrick Rau
+July 2018 – Sept. 2018 • Tsinghua University • Advisor: Prof. Pei-Luen Patrick Rau
 ThisprojectwasacollaborationwithTencentResearchInstitutetoinvestigateChineseusers’socialmedia
 measurement. Specifically,IexploredthefactorsthatdriveChinesetousemobileapplications.
 
@@ -105,11 +103,11 @@ Nov. 2017 – Dec. 2017 | Tsinghua University | Advisor: Prof. Qin Gao
 - Designedrewardmechanismoftheappandalloweduserstointeractincommunities.
 - Letpeoplecustomizeexperiencebychangingsimulatedagentsofthreedifferentpersonalities.
 
-## PROFESSIONALEXPERIENCE
+## PROFESSIONAL EXPERIENCE
 
-### MICROSOFTRESEARCHASIA | USER EXPERIENCE RESEARCHER
+### MICROSOFT RESEARCH ASIA | USER EXPERIENCE RESEARCHER
 
-Mar. 2017 – June 2017 | Beijing, China | Innovation Engineering Group | Mentor: Yan Xia
+Mar. 2017 – June 2017 • Beijing, China • Innovation Engineering Group • Mentor: Yan Xia
 
 - Evaluatedtheworkflowandstructureoftwolanguagelearningapps:MicrosoftLearnChineseandXiaoying.
 - Conductedmarketresearchoncross-culturallanguagelearningapps.
@@ -120,7 +118,7 @@ Mar. 2017 – June 2017 | Beijing, China | Innovation Engineering Group | Mentor
 
 ### PROGRAMMING LANGUAGE
 
-C/C++•Python•Shell•C#•R•Matlab•PyMongo•PySpark
+C/C++ • Python •Shell•C#•R•Matlab•PyMongo•PySpark
 
 VC++•SQL•IBMILOG•Stata•Arduino•HTML•LATEX
 
